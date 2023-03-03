@@ -22,9 +22,9 @@ namespace CSharp
     {
         public float HourlyCost;
 
-        public new  void PrintFullNameandAge()
+        public new void PrintFullNameandAge()
         {
-            System.Console.WriteLine(FirstName + LastName + " Age is " + Age +  " - Full time contract");
+            System.Console.WriteLine(FirstName + LastName + " Age is " + Age + " - Full time contract");
         }
     }
     class Program
@@ -45,7 +45,8 @@ namespace CSharp
             PE.LastName = "Tota";
             PE.Age = 22;
             PE.PrintFullNameandAge();
-            
+            PE.PrintFullNameandAge();
+            //Add Comment
         }
     }
 }
