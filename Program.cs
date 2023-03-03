@@ -6,11 +6,15 @@ namespace CSharp
     {
         public string FirstName;
         public string LastName;
+
+        public int Age;
         public float salary;
 
-        public void PrintFullName()
+
+
+        public void PrintFullNameandAge()
         {
-            System.Console.WriteLine(FirstName + " " + LastName);
+            System.Console.WriteLine(FirstName + " " + LastName + " " + "Age is: " + Age);
         }
     }
     class Program
@@ -24,6 +28,7 @@ namespace CSharp
             Empoloyee E = new Empoloyee();
             E.FirstName = "IE";
             E.LastName = "Team";
+            E.Age = 23;
             E.PrintFullName();
         }
     }
