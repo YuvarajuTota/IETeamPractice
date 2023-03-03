@@ -27,6 +27,17 @@ namespace CSharp
             System.Console.WriteLine(FirstName + LastName + " Age is " + Age + " - Full time contract");
         }
     }
+    class FullTimeEmployee : Empoloyee
+    {
+        public decimal MonthlyPay;
+
+        public new void PrintFullNameandAge()
+        {
+            System.Console.WriteLine(FirstName + LastName + " Age is " + Age + " - FullTime employee");
+        }
+
+    }
+
     class Program
     {
         static void Main(string[] args)
@@ -45,7 +56,11 @@ namespace CSharp
             PE.LastName = "Tota";
             PE.Age = 22;
             PE.PrintFullNameandAge();
-            PE.PrintFullNameandAge();
+            FullTimeEmployee FE = new FullTimeEmployee();
+            FE.FirstName = "Durga";
+            FE.LastName = "Mummareddy";
+            FE.Age = 24;
+            FE.PrintFullNameandAge();
             //Add Comment
         }
     }
