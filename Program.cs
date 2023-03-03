@@ -29,7 +29,7 @@ namespace CSharp
             E.FirstName = "IE";
             E.LastName = "Team";
             E.Age = 23;
-            E.PrintFullName();
+            E.PrintFullNameandAge();
         }
     }
 }
