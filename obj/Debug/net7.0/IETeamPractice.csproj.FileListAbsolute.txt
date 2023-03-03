@@ -1,0 +1,15 @@
+D:\IETeamPractice\bin\Debug\net7.0\IETeamPractice.exe
+D:\IETeamPractice\bin\Debug\net7.0\IETeamPractice.deps.json
+D:\IETeamPractice\bin\Debug\net7.0\IETeamPractice.runtimeconfig.json
+D:\IETeamPractice\bin\Debug\net7.0\IETeamPractice.dll
+D:\IETeamPractice\bin\Debug\net7.0\IETeamPractice.pdb
+D:\IETeamPractice\obj\Debug\net7.0\IETeamPractice.csproj.AssemblyReference.cache
+D:\IETeamPractice\obj\Debug\net7.0\IETeamPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\IETeamPractice\obj\Debug\net7.0\IETeamPractice.AssemblyInfoInputs.cache
+D:\IETeamPractice\obj\Debug\net7.0\IETeamPractice.AssemblyInfo.cs
+D:\IETeamPractice\obj\Debug\net7.0\IETeamPractice.csproj.CoreCompileInputs.cache
+D:\IETeamPractice\obj\Debug\net7.0\IETeamPractice.dll
+D:\IETeamPractice\obj\Debug\net7.0\refint\IETeamPractice.dll
+D:\IETeamPractice\obj\Debug\net7.0\IETeamPractice.pdb
+D:\IETeamPractice\obj\Debug\net7.0\IETeamPractice.genruntimeconfig.cache
+D:\IETeamPractice\obj\Debug\net7.0\ref\IETeamPractice.dll
