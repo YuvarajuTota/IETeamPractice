@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace CSharp
 {
 
@@ -63,6 +62,5 @@ namespace CSharp
         }
 
         System.Console.WriteLine("hello world");
-        
     }
 }
