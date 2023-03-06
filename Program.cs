@@ -56,12 +56,9 @@ namespace CSharp
             PE.LastName = "Tota";
             PE.Age = 22;
             PE.PrintFullNameandAge();
-            FullTimeEmployee FE = new FullTimeEmployee();
-            FE.FirstName = "Durga";
-            FE.LastName = "Mummareddy";
-            FE.Age = 24;
-            FE.PrintFullNameandAge();
-            //Add Comment
+            System.Console.WriteLine("Test");
+            System.Console.WriteLine("durga");
+            System.Console.WriteLine("gayathri");
         }
 
         System.Console.WriteLine("hello world");
