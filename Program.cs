@@ -45,6 +45,7 @@ namespace CSharp
             PE.LastName = "Tota";
             PE.Age = 22;
             PE.PrintFullNameandAge();
+            System.Console.WriteLine("Test Purpose");
             
         }
     }
